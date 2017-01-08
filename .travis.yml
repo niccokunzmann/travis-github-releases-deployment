@@ -15,4 +15,6 @@ deploy:
     api_key:
       secure: "X7M93FwsvBDKRPRwKPCglRHZ+TED8G4w+7IxLOUkrmF/+kt1xxWcTMO5U/39SSBo2I3BmYnF9ZlIKf2GkB6RqWisCBVnHxKQWe8L/YiPds5t3ySBkwhjeYZRKj/fJWwEf3oshWjStmudTptcvIbDOhsMeVNBDPRgYTbyZpv4mss8HvBiQ41M0ToUwrW/8bx32jZDTwL6QUuoIJx+ar/G770AAZ8UY/pmcjdgbohLzPrqSXQV5ksy/J3JkOYQ+pzDWl1gjz4Og8gA6kDWIidP985we0CCN/YQS6xdRnhkaqnQMBTKfnV5B5JVMDqFUOut5MSSzfiW+KNCNWo+Sq6pqxA0wIa+lQrFXEFQAVvitcspBYmmw3ZM2Z0qPxwgr7h/Yd326fj6Khz3eEb9uFzfEaDg1WI+uEolafyOiEbHXSutr2xQt4COjGIAiXfGzOR0ChES7wNdqtJrlClS5F8B0S8+Br6ciI+kC5ik2/jNEtMNr8ERIrZBgCvPO3cTUlLFHIYCt4AeATzw90UHyvjqWrEJZqbfMA5BGfXAbwbpmtXj739r4XFaPHqPKvax8qvf5mri9I1WvIbV33kp8uoqSLI+VjATl0yUkiX0Iv+5gM+lWwHNiO7WD4Taih65la2KgQ9FZyW16xhGBZ2KifyqnEpMr3T5GzqL4uiubQN7AB4="
     file: /home/travis/release.txt
+    on:
+      branch: master
 
